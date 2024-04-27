@@ -9,9 +9,7 @@ Problem Statement:
 -Data Quality and Check (Task 1)
 1.	Create a consolidated view of data by joining the data present in three files.
 2.	Are there any variables where you will need to clean the raw data, what kind of cleaning will be needed?
-3.	Create a data quality report after doing the necessary cleaning and joining of the files by:
--Doing univariates for continuous variables (compute: percentage of missing values, percentage of terms which are zero, mean, 25th, 50th, 75th, 90th and 95th percentile, min and max)
--Doing univariates for categorical variables (compute:percentage of missing values, number of unique values)
+3.	Create a data quality report after doing the necessary cleaning and joining of the files by:Doing univariates for continuous variables (compute: percentage of missing values, percentage of terms which are zero, mean, 25th, 50th, 75th, 90th and 95th percentile, min and max),Doing univariates for categorical variables (compute:percentage of missing values, number of unique values)
 5.	Are there any extreme values of variables representing income, amount of money spent on various categories, recency of purchase?
 -Business Analysis and Hypothesis (Task 2)
 6.	Generate and check hypothesis around Amount Spent on different categories and response rate in different marketing campaigns
